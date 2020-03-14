@@ -1,7 +1,7 @@
 Websocket Server
 =======================
 
-[![CircleCI](https://circleci.com/gh/Pithikos/python-websocket-server/tree/master.svg?style=svg)](https://circleci.com/gh/Pithikos/python-websocket-server/tree/master)
+(https://circleci.com/gh/Pithikos/python-websocket-server/tree/master)
 
 A minimal Websockets Server in Python with no external dependencies.
 
